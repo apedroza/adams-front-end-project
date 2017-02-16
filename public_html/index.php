@@ -100,6 +100,15 @@
 					</div>
 				</div>
 			</div>
+			<footer>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-5">
+							&copy; 2017 Roza Productions 2017
+						</div>
+					</div>
+				</div>
+			</footer>
 
 		</header>
 
