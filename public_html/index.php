@@ -33,7 +33,6 @@
 						</button>
 						<a class="navbar-brand" href="#">Ice Cold Marketing <i class="fa fa-hand-o-right" aria-hidden="true"></i></a>
 					</div>
-
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
@@ -42,6 +41,24 @@
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
 			</nav>
+			<div class="col-xs-10 col-xs-offset-1">
+				<div class="jumbotron">
+					...If We Don't Got it, You Don't Want It
+				</div>
+			</div>
+			<div class="row row-flex">
+				<div class="col-md-4 col-xs-offset-1">
+							<img src="images/lenny.jpg" alt="lenny">
+				</div>
+				<div class="col-md-6">
+					<div class="well">
+						<h2>ABOUT</h2>
+						<p>Add <strong>at least two (2)</strong> Javascript events from <strong>Tier I</strong> to the project, at a minimum. Use an HTML Form if you can.</p>
+						<p>Add JavaScript from Tiers II, III, or IV if you can complete Tier I.</p>
+						<p>Refer to: <a href="https://bootcamp-coders.cnm.edu/class-materials/javascript/events/assignment.php" target="_blank">JavaScript Events Assignment</a></p>
+					</div>
+				</div>
+			</div>
 
 		</header>
 
