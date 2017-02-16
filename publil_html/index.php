@@ -3,14 +3,16 @@
 
 	<head lang="en">
 		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link rel="stylesheet" href="style.css">
 		<script src="script.js"></script>
-		<title>Star Trek Plunker</title>
+		<title>Adam's Front End Project</title>
 	</head>
 	<body>
 		<header>
-			<h1 strong>Adam's Star Trek Plunker!</strong/h1>
+			<h1>Adam's Front End Project!</h1>
 		</header>
 
 		<p>These are the voyages of the Starship Enterprise. Its continuing mission, to
