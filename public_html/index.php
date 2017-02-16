@@ -52,10 +52,24 @@
 				</div>
 				<div class="col-md-6">
 					<div class="well">
-						<h2>ABOUT</h2>
-						<p>Add <strong>at least two (2)</strong> Javascript events from <strong>Tier I</strong> to the project, at a minimum. Use an HTML Form if you can.</p>
-						<p>Add JavaScript from Tiers II, III, or IV if you can complete Tier I.</p>
-						<p>Refer to: <a href="https://bootcamp-coders.cnm.edu/class-materials/javascript/events/assignment.php" target="_blank">JavaScript Events Assignment</a></p>
+						<p>While Of Mice and Men occurs in a very specific time and place, each of the
+							characters can be thought of as symbolizing broader populations. Though the book
+							is not an allegory, and each character can stand alone as simply a character,
+							there’s still something to be gained by looking at each character as representative
+							of their larger group. Here we go.</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="row">
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img src="images/city.jpg" alt="city">
+							<div class="Sacramento">
+								<h3>City</h3>
+								<p>Great city . Yeah Yeah..</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
