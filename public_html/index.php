@@ -62,12 +62,39 @@
 			</div>
 			<div>
 				<div class="row">
-					<div class="col-sm-6 col-md-4">
+					<div class="col-sm-2 col-md-2 col-sm-offset-2">
 						<div class="thumbnail">
 							<img src="images/city.jpg" alt="city">
 							<div class="Sacramento">
 								<h3>City</h3>
 								<p>Great city . Yeah Yeah..</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-2 col-md-2">
+						<div class="thumbnail">
+							<img src="images/tacos.jpg" alt="tacos">
+							<div class="Tacos">
+								<h3>Tacos</h3>
+								<p>Mmmm. Best Tacos.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-2 col-md-2">
+						<div class="thumbnail">
+							<img src="images/tyson.jpg" alt="tyson">
+							<div class="Mike Tyson">
+								<h3>Mike Tyson</h3>
+								<p>I Love Pigeonss!!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-2 col-md-2">
+						<div class="thumbnail">
+							<img src="images/startrek.jpg" alt="trek">
+							<div class="Star Trek Ship">
+								<h3>Star Trek</h3>
+								<p>Trek Ship. WOW!!</p>
 							</div>
 						</div>
 					</div>
