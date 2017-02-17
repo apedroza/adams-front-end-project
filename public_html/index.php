@@ -66,20 +66,15 @@
 							of their larger group. Here we go.</p>
 					</div>
 				</div>
-			</div>
-		</main>
 
-
-
-
-			<div>
+				<!--row 2-->
 				<div class="row">
 					<div class="col-sm-2 col-md-2 col-sm-offset-2">
 						<div class="thumbnail">
 							<img class="img-circle" src="images/city.jpg" alt="city">
 							<div class="Sacramento">
-								<h3>City</h3>
-								<p>Great city . Yeah Yeah..</p>
+								<h3>Downtown</h3>
+								<p>Come to downtown Sacramento! Not really.</p>
 							</div>
 						</div>
 					</div>
@@ -112,10 +107,13 @@
 					</div>
 				</div>
 			</div>
+		</main>
+		</div>
+
 			<footer>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7 col-md-offset-5">
+						<div class="col-md-6 col-md-offset-5">
 							&copy; 2017 Roza Productions 2017
 						</div>
 					</div>
