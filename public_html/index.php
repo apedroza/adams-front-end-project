@@ -41,7 +41,6 @@
 								<li><a href="#">Link</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
-						<i class="fa fa-hand-o-right" aria-hidden="true"></i>
 
 						<div class="col-xs-10 col-xs-offset-1">
 							<div class="jumbotron">
@@ -54,10 +53,16 @@
 
 		<main>
 			<div class="container">
-			<div class="row row-flex">
-				<div class="col-md-4 col-xs-offset-1">
-							<img src="images/lenny.jpg" alt="lenny">
+				<!-- row 1-->
+				<div class="row">
+					<div class="col-md-4 col-xs-offset-1">
+						<img src="images/lenny.jpg" alt="lenny">
+					</div>
 				</div>
+			</div>
+
+			<!-- row 2-->
+			<div class="row"
 				<div class="col-md-6">
 					<div class="well">
 						<p id="1">While Of Mice and Men occurs in a very specific time and place, each of the
@@ -67,8 +72,9 @@
 							of their larger group. Here we go.</p>
 					</div>
 				</div>
-				</nav>
 			</div>
+
+
 			<div>
 				<div class="row">
 					<div class="col-sm-2 col-md-2 col-sm-offset-2">
