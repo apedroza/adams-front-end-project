@@ -42,18 +42,18 @@
 							</ul>
 						</div><!-- /.navbar-collapse -->
 						<i class="fa fa-hand-o-right" aria-hidden="true"></i>
+
+						<div class="col-xs-10 col-xs-offset-1">
+							<div class="jumbotron">
+								...just a little bit
+							</div>
+						</div>
 					</div><!-- /.container-fluid -->
 				</nav>
 			</header>
 
-			<div class="col-xs-10 col-xs-offset-1">
-				<div class="jumbotron">
-					...just a little bit
-				</div>
-			</div>
-		</div>
-
-
+		<main>
+			<div class="container">
 			<div class="row row-flex">
 				<div class="col-md-4 col-xs-offset-1">
 							<img src="images/lenny.jpg" alt="lenny">
