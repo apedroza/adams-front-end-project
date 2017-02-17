@@ -55,22 +55,19 @@
 			<div class="container">
 				<!-- row 1-->
 				<div class="row">
-					<div class="col-md-6">
-						<div class="fancy-box">
-							<img src="images/lenny.jpg" alt="lenny">
-						</div>
+					<div class="col-sm-2 col-md-offset-2">
+						<img src="images/lenny.jpg" alt="lenny">
 					</div>
-					<div class="col-md-6">
-						<div class="fancy-box">
-							<p id="1">While Of Mice and Men occurs in a very specific time and place, each of the
-								characters can be thought of as symbolizing broader populations. Though the book
-								is not an allegory, and each character can stand alone as simply a character,
-								there’s still something to be gained by looking at each character as representative
-								of their larger group. Here we go.</p>
-						</div>
+					<div class="col-md-6 col-md-offset-2">
+						<p id="1">While Of Mice and Men occurs in a very specific time and place, each of the
+							characters can be thought of as symbolizing broader populations. Though the book
+							is not an allegory, and each character can stand alone as simply a character,
+							there’s still something to be gained by looking at each character as representative
+							of their larger group. Here we go.</p>
 					</div>
 				</div>
 			</div>
+		</main>
 
 
 
