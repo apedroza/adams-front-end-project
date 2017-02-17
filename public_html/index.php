@@ -22,7 +22,7 @@
 	<body class="sfooter">
 		<div class="sfooter-container">
 			<header>
-				<nav class="navbar navbar-inverse">
+				<nav class="navbar navbar-default">
 					<div class="container-fluid">
 					<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
@@ -46,12 +46,14 @@
 				</nav>
 			</header>
 
-
 			<div class="col-xs-10 col-xs-offset-1">
 				<div class="jumbotron">
 					...just a little bit
 				</div>
 			</div>
+		</div>
+
+
 			<div class="row row-flex">
 				<div class="col-md-4 col-xs-offset-1">
 							<img src="images/lenny.jpg" alt="lenny">
