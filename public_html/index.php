@@ -55,8 +55,10 @@
 			<div class="container">
 				<!-- row 1-->
 				<div class="row">
-					<div class="col-md-4 col-xs-offset-1">
-						<img src="images/lenny.jpg" alt="lenny">
+					<div class="col-md-6">
+						<div class="fancy-box">
+							<img src="images/lenny.jpg" alt="lenny">
+						</div>
 					</div>
 				</div>
 			</div>
@@ -64,7 +66,7 @@
 			<!-- row 2-->
 			<div class="row"
 				<div class="col-md-6">
-					<div class="well">
+					<div class="fancy-box">
 						<p id="1">While Of Mice and Men occurs in a very specific time and place, each of the
 							characters can be thought of as symbolizing broader populations. Though the book
 							is not an allegory, and each character can stand alone as simply a character,
@@ -73,6 +75,7 @@
 					</div>
 				</div>
 			</div>
+
 
 
 			<div>
