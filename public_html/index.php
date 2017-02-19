@@ -6,7 +6,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- Optional theme -->
@@ -21,8 +20,8 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<script src="js"></script>
-		<title>2017 Roza Productions</title>
+		<script src="js/script.js"></script>
+		<title>Adam's Front End Project</title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-container">
@@ -37,7 +36,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">Ice Cold Marketing <i class="fa fa-hand-o-left" aria-hidden="true"></i></a>
+							<a class="navbar-brand" href="#">Ice Cold Marketing <i class="fa fa-hand-o-right" aria-hidden="true"></i></a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
@@ -50,7 +49,7 @@
 				</nav>
 
 						<div class="col-xs-10 col-xs-offset-1">
-							<div class="jumbotron">
+							<div id="fontShift" class="jumbotron" onclick="fontShift();">
 								<h1>HELLO!! ADAM'S FIRST BOOTSTRAP</h1>
 							</div>
 						</div>
@@ -70,7 +69,7 @@
 							<img src="images/lenny.jpg" alt="lenny">
 						</div>
 						<div class="col-md-6 col-md-offset-2">
-							<p id="1">While Of Mice and Men occurs in a very specific time and place, each of the
+							<p id="1" onClick="colorShift();">While Of Mice and Men occurs in a very specific time and place, each of the
 							characters can be thought of as symbolizing broader populations. Though the book
 							is not an allegory, and each character can stand alone as simply a character,
 							there’s still something to be gained by looking at each character as representative
@@ -79,7 +78,7 @@
 					</div>
 
 					<!--row 3-->
-					<div class="row">
+					<div class="row fontShift">
 						<div class="col-sm-2 col-md-2 col-sm-offset-2">
 							<div class="thumbnail">
 								<img class="img-circle" src="images/city.jpg" alt="city">
