@@ -11,5 +11,9 @@
 }
 
 .yellow-background {
-	background-color: yellow;
+	background-color: yellow !important;
+}
+
+.spaceUp {
+	padding-bottom: 100px;
 }

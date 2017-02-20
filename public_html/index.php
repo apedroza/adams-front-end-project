@@ -26,10 +26,10 @@
 	<body class="sfooter">
 		<div class="sfooter-container">
 			<header>
-				<nav class="navbar navbar-default">
+				<nav class="navbar navbar-default yellow-background">
 					<div class="container-fluid">
 					<!-- Brand and toggle get grouped for better mobile display -->
-						<div class="navbar-header">
+						<div class="navbar-header yellow-background">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
@@ -48,15 +48,17 @@
 					</div><!-- /.container-fluid -->
 				</nav>
 
-						<div class="col-xs-10 col-xs-offset-1">
-							<div id="fontShift" class="jumbotron" onclick="fontShift();">
-								<h1>HELLO!! ADAM'S FIRST BOOTSTRAP</h1>
-							</div>
-						</div>
+
 			</header>
 
 			<main>
-				<div class="container">
+				<div (class=container)
+				<div class="col-xs-10 col-xs-offset-1">
+					<div id="fontShift" class="jumbotron" onclick="fontShift();">
+						<h1>HELLO!! ADAM'S FIRST BOOTSTRAP</h1>
+					</div>
+				</div>
+				<div class="container yellow-background">
 					<!--row 1-->
 					<div class="row">
 						<div class="col-xs-12">
@@ -76,6 +78,7 @@
 							of their larger group. Here we go.</p>
 						</div>
 					</div>
+				</div>
 
 					<!--row 3-->
 					<div class="row fontShift spaceDn">
@@ -121,9 +124,9 @@
 		</div>
 
 		<footer>
-			<div class="container">
-					<div class="row text-center">
-						<div class="col-md-12">
+			<div class="container yellow-background">
+					<div class="row text-center yellow-background">
+						<div class="col-md-12 yellow-background">
 							&copy; 2017 Roza Productions
 						</div>
 					</div>
