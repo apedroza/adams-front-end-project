@@ -102,7 +102,7 @@
 								<img class="img-circle" src="images/tyson.jpg" alt="tyson">
 								<div class="Mike Tyson">
 									<h3>Mike Tyson</h3>
-									<p>I Love Pigeons!!</p>
+									<p class="tyson">I Love Pigeons!!</p>
 								</div>
 							</div>
 						</div>
@@ -121,7 +121,7 @@
 		</div>
 
 		<footer>
-			<div class="container spaceDn">
+			<div class="container">
 					<div class="row">
 						<div class="col-md-6">
 							&copy; 2017 Roza Productions 2017
