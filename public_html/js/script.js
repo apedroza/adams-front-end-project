@@ -7,3 +7,8 @@ function fontShift() {
 	let fontText = document.getElementById("fontShift");
 	fontText.style.fontFamily = "Impact,Charcoal,sans-serif";
 }
+
+function cityText() {
+	var cityText = document.getElementById("7");
+	cityText.style = "color: purple";
+}

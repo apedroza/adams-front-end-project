@@ -36,7 +36,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">Ice Cold Marketing<i class="fa fa-hand-o-right" aria-hidden="true"></i></a>
+							<a class="navbar-brand" href="#">Ice Cold Marketing<i class="fa fa-hand-o-left" aria-hidden="true"></i></a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
@@ -84,7 +84,7 @@
 								<img class="img-circle" src="images/city.jpg" alt="city">
 								<div class="Sacramento">
 									<h3>Downtown</h3>
-									<p>Come to downtown Sacramento! Not really.</p>
+									<p id="7" onmouseover="cityText()">Come to downtown Sacramento! Not really.</p>
 								</div>
 							</div>
 						</div>
