@@ -30,7 +30,7 @@
 					<div class="container-fluid">
 					<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header yellow-background">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<button type="button" class="navbar-toggle collapsed yellow-background" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
@@ -40,8 +40,8 @@
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
-						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-							<ul class="nav navbar-nav navbar-right">
+						<div class="collapse navbar-collapse yellow-background" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-right yellow-background">
 								<li><a href="#">Link</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
@@ -51,26 +51,27 @@
 
 			</header>
 
-			<main>
-				<div (class=container)
+			<div>
+				<div class="container spaceDn">
 				<div class="col-xs-10 col-xs-offset-1">
 					<div id="fontShift" class="jumbotron" onclick="fontShift();">
 						<h1>HELLO!! ADAM'S FIRST BOOTSTRAP</h1>
 					</div>
 				</div>
-				<div class="container yellow-background">
+				<div class="container">
 					<!--row 1-->
 					<div class="row">
 						<div class="col-xs-12">
 						</div>
 					</div>
+				</div>
 
 					<!-- row 2-->
-					<div class="row spaceDn">
-						<div class="col-sm-2 col-md-offset-2">
+					<div class="row spaceUp yellow-background">
+						<div class="col-sm-2 col-md-offset-2 yellow-background">
 							<img src="images/lenny.jpg" alt="lenny">
 						</div>
-						<div class="col-md-6 col-md-offset-2">
+						<div class="col-md-6 col-md-offset-2 yellow-background">
 							<p id="1" onClick="colorShift();">While Of Mice and Men occurs in a very specific time and place, each of the
 							characters can be thought of as symbolizing broader populations. Though the book
 							is not an allegory, and each character can stand alone as simply a character,
@@ -81,7 +82,8 @@
 				</div>
 
 					<!--row 3-->
-					<div class="row fontShift spaceDn">
+				<div class="spaceDn"></div>
+					<div class="row fontShift">
 						<div class="col-sm-2 col-md-2 col-sm-offset-2">
 							<div class="thumbnail">
 								<img class="img-circle" src="images/city.jpg" alt="city">
@@ -124,6 +126,7 @@
 		</div>
 
 		<footer>
+			<div class="spaceUp"</div>
 			<div class="container yellow-background">
 					<div class="row text-center yellow-background">
 						<div class="col-md-12 yellow-background">
