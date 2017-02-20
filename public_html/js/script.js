@@ -18,8 +18,10 @@ function tacoShift() {
 }
 
 $(function() {
-	$("")
+	$(".tyson").click(function() {
+		$(this).addClass("redishText");
+	});
+});
 
-}
 
 
