@@ -122,12 +122,9 @@
 
 		<footer>
 			<div class="container">
-					<div class="row">
-						<div class="col-md-6">
-							&copy; 2017 Roza Productions 2017
-						</div>
-						<div class="col-md-6">
-							&copy; 2017 Roza Productions 2017
+					<div class="row text-center">
+						<div class="col-md-12">
+							&copy; 2017 Roza Productions
 						</div>
 					</div>
 			</div>
