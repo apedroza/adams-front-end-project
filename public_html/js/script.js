@@ -12,3 +12,8 @@ function cityText() {
 	var cityText = document.getElementById("7");
 	cityText.style = "color: purple";
 }
+
+function tacoShift() {
+	document.getElementById("changeText").className = "greenText";
+}
+

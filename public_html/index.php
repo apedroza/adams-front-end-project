@@ -64,7 +64,7 @@
 					</div>
 
 					<!-- row 2-->
-					<div class="row">
+					<div class="row spaceDn">
 						<div class="col-sm-2 col-md-offset-2">
 							<img src="images/lenny.jpg" alt="lenny">
 						</div>
@@ -78,7 +78,7 @@
 					</div>
 
 					<!--row 3-->
-					<div class="row fontShift">
+					<div class="row fontShift spaceDn">
 						<div class="col-sm-2 col-md-2 col-sm-offset-2">
 							<div class="thumbnail">
 								<img class="img-circle" src="images/city.jpg" alt="city">
@@ -93,7 +93,7 @@
 								<img class="img-circle" src="images/tacos.jpg" alt="tacos">
 								<div class="Tacos">
 									<h3>Tacos</h3>
-									<p>Mmmm. Best Tacos.</p>
+									<p id="changeText" onclick="tacoShift()">Mmmm. Best Tacos.</p>
 								</div>
 							</div>
 						</div>
@@ -121,7 +121,7 @@
 		</div>
 
 		<footer>
-			<div class="container">
+			<div class="container spaceDn">
 					<div class="row">
 						<div class="col-md-6">
 							&copy; 2017 Roza Productions 2017
